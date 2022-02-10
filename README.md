@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi I'm Blaine
 [![](https://img.shields.io/badge/LinkedIn-Blaine--Interrante-blue)](https://www.linkedin.com/in/blaineinterrante)
 [![](https://img.shields.io/badge/Gmail-interrante.blaine%40gmail.com-red)](mailto:interrante.blaine@gmail.com)
