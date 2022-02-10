@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**interranteblaine/interranteblaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi I'm Blaine
+[![](https://img.shields.io/badge/LinkedIn-Blaine--Interrante-blue)](https://www.linkedin.com/in/blaineinterrante)
+[![](https://img.shields.io/badge/Gmail-interrante.blaine%40gmail.com-red)](mailto:interrante.blaine@gmail.com)
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
+-  **Proficiencies :** Javascript, Node/Express, PostgreSQL, Sequelize, React, Redux, HTML5, CSS3, Git, GitHub
+-  **Background :** Strategy & Analytics Consultant, U.S. Coast Guard Veteran
+-  **Hobbies :** Weight Training 🏋🏽‍, and Playing With My Dog :dog:
+-  **Fact :** I'm always up for a challenge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div>
+  <img align="left" width="35%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=interranteblaine&layout=compact">
+  <img align="right" width="60%" height="60%" src="https://github-readme-stats.vercel.app/api?username=interranteblaine&show_icons=true&count_private=true">
+</div>
