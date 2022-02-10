@@ -6,7 +6,7 @@
 ### About
 -  **Proficiencies :** Javascript, Node/Express, PostgreSQL, Sequelize, React, Redux, HTML5, CSS3, Git, GitHub
 -  **Background :** Strategy & Analytics Consultant, U.S. Coast Guard Veteran
--  **Hobbies :** Weight Training 🏋🏽‍, and Playing With My Dog :dog:
+-  **Hobbies :** Weight Training 🏋🏽‍, Playing With My Dog :dog:
 -  **Fact :** I'm always up for a challenge
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
