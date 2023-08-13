@@ -7,6 +7,6 @@
 -  **Background :** Software Developer, Strategy & Analytics Consultant, U.S. Coast Guard Veteran
 -  **Hobbies :** Weight Training 🏋🏽‍, Playing With My Dog :dog:
 -  **Fact :** I'm always up for learning something new
--  **Interests :** Javascript, React, Python, AI 
+-  **Interests :** Typescript, React, Python, AWS 
 
 
